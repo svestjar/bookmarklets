@@ -1,5 +1,7 @@
-function vsad(){
- 	alert("foo"); 
-}
-  
-vsad();
+window.mqb = {
+    init: function vsad(){
+        alert("foo"); 
+    }
+};
+
+mqb.init();
