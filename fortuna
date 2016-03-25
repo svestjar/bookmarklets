@@ -1,0 +1,5 @@
+function vsad(){
+ 	alert("foo"); 
+}
+  
+vsad();
